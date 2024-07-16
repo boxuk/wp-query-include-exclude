@@ -12,4 +12,4 @@ built modules 6.48 KiB [built]
     ../../node_modules/react/cjs/react-jsx-runtime.production.min.js 859 bytes [built] [code generated]
   ./src/index.tsx + 12 modules 5.39 KiB [not cacheable] [built] [code generated]
   external "React" 42 bytes [built] [code generated]
-webpack 5.91.0 compiled successfully in 1318 ms
+webpack 5.91.0 compiled successfully in 1247 ms
