@@ -7,4 +7,4 @@ asset index.asset.php 222 bytes [emitted] (name: index)
 Entrypoint index 2.88 KiB = index.js 2.66 KiB index.asset.php 222 bytes
 orphan modules 183 KiB [orphan] 290 modules
 ./src/index.tsx + 13 modules 5.56 KiB [not cacheable] [built] [code generated]
-webpack 5.91.0 compiled successfully in 1105 ms
+webpack 5.91.0 compiled successfully in 1112 ms
